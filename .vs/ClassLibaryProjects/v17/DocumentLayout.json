@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects\\",
+  "WorkspaceRootPath": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects_Backup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99C5A2AF-F6F0-4E68-92A4-872F87899990}|StringLibrary\\StringLibrary.csproj|c:\\users\\mcnav\\source\\repos\\classlibaryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1804A946-7612-417A-ACFB-C38250CC1EAD}|ShowCase\\ShowCase.csproj|c:\\users\\mcnav\\source\\repos\\classlibaryprojects_backup\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1804A946-7612-417A-ACFB-C38250CC1EAD}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C5A2AF-F6F0-4E68-92A4-872F87899990}|StringLibrary\\StringLibrary.csproj|c:\\users\\mcnav\\source\\repos\\classlibaryprojects_backup\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99C5A2AF-F6F0-4E68-92A4-872F87899990}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99C5A2AF-F6F0-4E68-92A4-872F87899990}|StringLibrary\\StringLibrary.csproj|c:\\users\\mcnav\\source\\repos\\classlibaryprojects\\stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{99C5A2AF-F6F0-4E68-92A4-872F87899990}|StringLibrary\\StringLibrary.csproj|c:\\users\\mcnav\\source\\repos\\classlibaryprojects_backup\\stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{99C5A2AF-F6F0-4E68-92A4-872F87899990}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,23 +30,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StringLibrary",
-              "DocumentMoniker": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects\\StringLibrary\\StringLibrary.csproj",
-              "RelativeDocumentMoniker": "StringLibrary\\StringLibrary.csproj",
-              "ToolTip": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects\\StringLibrary\\StringLibrary.csproj",
-              "RelativeToolTip": "StringLibrary\\StringLibrary.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-09T18:34:49.899Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects_Backup\\ShowCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
+              "ToolTip": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects_Backup\\ShowCase\\Program.cs",
+              "RelativeToolTip": "ShowCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T23:12:34.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "StringLibrary",
+              "DocumentMoniker": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects_Backup\\StringLibrary\\StringLibrary.csproj",
+              "RelativeDocumentMoniker": "StringLibrary\\StringLibrary.csproj",
+              "ToolTip": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects_Backup\\StringLibrary\\StringLibrary.csproj",
+              "RelativeToolTip": "StringLibrary\\StringLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T18:34:49.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects\\StringLibrary\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects_Backup\\StringLibrary\\Class1.cs",
               "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
-              "ToolTip": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects\\StringLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\mcnav\\source\\repos\\ClassLibaryProjects_Backup\\StringLibrary\\Class1.cs",
               "RelativeToolTip": "StringLibrary\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
